@@ -46,3 +46,6 @@ mvn spring-boot:run
 cd frontend
 npm install
 npm start
+
+
+![image](https://github.com/user-attachments/assets/6824595a-a170-4ea1-a25f-3d8cdcd33705)
